@@ -1,0 +1,14 @@
+{
+  "name": "discord-mta-bot",
+  "version": "1.0.0",
+  "description": "Discord bot linked with MTA",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
