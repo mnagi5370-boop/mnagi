@@ -1,0 +1,10 @@
+<meta>
+    <info author="Mohamed" type="script" version="1.0" />
+
+    <!-- Client Files -->
+    <script src="client.lua" type="client" />
+    <script src="config.json" type="client" />
+
+    <!-- Server Files -->
+    <script src="server.lua" type="server" />
+</meta>
